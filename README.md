@@ -1,1 +1,2 @@
 # steam-game-analysis
+The project manages a dataset of games published on steam, our goal is to Analyzed the steam game dataset containing information of published games by applying various analytical queries to identify the most common genre played, performing sentiment assessment for each game, identifying discounts in text data. Also, identifying top-selling games by involving various metrics to suit a specific criteria
