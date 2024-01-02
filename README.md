@@ -1,4 +1,4 @@
-<p align="center"># Steam Game Analysis</p>
+<h1 align="center">Steam Game Analysis</h1>
 Analyzed the steam games dataset containing information of published games on steam by applying various analytical queries to identify the most common genre played, performing sentiment assessment for each game, identifying discounts in text data. Also, identifying the top-selling games by involving various metrics to suit a specific criteria
 
 ## Software Design and NoSQL-Database and Tools Used
