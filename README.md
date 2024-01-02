@@ -1,3 +1,7 @@
+<p align="center">
+<img width="120" height = "120" align = "center" alt="Screenshot 2024-01-02 at 4 17 15 AM" src="https://github.com/achaud25/steam-game-analysis/assets/113392203/8d3f04cd-40a7-4906-a7cf-e2c46a710a97">
+</p>
+
 <h1 align="center">Steam Game Analysis</h1>
 Analyzed the steam games dataset containing information of published games on steam by applying various analytical queries to identify the most common genre played, performing sentiment assessment for each game, identifying discounts in text data. Also, identifying the top-selling games by involving various metrics to suit a specific criteria
 
