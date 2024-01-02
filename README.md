@@ -5,7 +5,8 @@ Analyzed the steam games dataset containing information of published games on st
 
 <img width="400" alt="Screenshot 2024-01-02 at 4 17 15 AM" src="https://github.com/achaud25/steam-game-analysis/assets/113392203/fe1d75f6-e4af-4303-b248-862f539fc9e6">
 
-Performed Analysis for the following:
+
+#### Performed Analysis for the following:
 
 - <b>Games on Discount:</b> In the dataset, there is no field that explicitly mentions the discount. To infer this information, I've utilize the 'detailed_description' field, wherein we search for keywords related to discounts. Subsequently, extractingthe discount percentage using regular expressions, along with the original price, to compute the games that are on
 discount.
